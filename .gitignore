@@ -1,0 +1,11 @@
+node_modules/
+*.log
+*.dll
+*.ncm
+*.wav
+*.npy
+*.zip
+installation.json
+acceptance.json
+.DS_Store
+Thumbs.db
